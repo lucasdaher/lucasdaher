@@ -1,6 +1,6 @@
 ## Sejam bem-vindos(as) ao meu mundo!
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 Explorando novas tecnologias diariamente.
 - 🎓 Estudando front-end na Escola DNC.
 - 🌱 Aprendendo mais sobre **React** e **Typescript**.
 
