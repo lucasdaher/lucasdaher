@@ -2,7 +2,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando front-end na Escola DNC.
-- 🌱 Aprendendo mais sobre **React.JS** e **Typescript**.
+- 🌱 Aprendendo mais sobre **React** e **Typescript**.
 
 ## Minhas habilidades:
 
