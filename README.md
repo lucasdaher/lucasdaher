@@ -9,7 +9,7 @@ Hello, my name is Lucas, I'm 21 years old and I live in Brasilia, Brazil. I'm st
 [![Studying](https://skillicons.dev/icons?i=ts,react,nodejs)](https://skillicons.dev)
 
 #### Pending Study
-[![Studying](https://skillicons.dev/icons?i=svelte,vuejs,mysql)](https://skillicons.dev)
+[![Studying](https://skillicons.dev/icons?i=svelte,vuejs,mysql,angular)](https://skillicons.dev)
 
 #### Tools
 [![Tools](https://skillicons.dev/icons?i=ps,figma,vscode)](https://skillicons.dev)
