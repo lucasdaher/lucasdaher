@@ -1,6 +1,6 @@
 ## Welcome to my world! 👋
 
-My name is Lucas, I'm 21 years old and I live in Brasilia. I am currently studying to become a fullstack developer.
+Hello, my name is Lucas, I'm 21 years old and I live in Brasilia, Brazil. I'm studying to become a front-end developer.
 
 #### Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap)](https://skillicons.dev)
