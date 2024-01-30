@@ -1,23 +1,12 @@
-## Welcome to my world! 👋
+# Lucas Daher
 
-Hello, my name is Lucas, I'm 21 years old and I live in Brasilia, Brazil. I'm studying to become a front-end developer.
+Hello! I'm **Lucas Daher**, a 21 years old based in **Brasília, Brazil**, and I'm fueled by a passion for technology. As a **front-end developer**, I'm on a constant journey to explore the latest innovations and create captivating digital experiences. Welcome to my world of code and creativity!
 
-#### Skills
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,tailwind,bootstrap,react,sass)](https://skillicons.dev)
+[![Instagram Badge](https://img.shields.io/badge/-@lucasdaherdev-303030?style=flat-square&labelColor=303030&logo=instagram&logoColor=white&link=https://instagram.com/lucasdaherdev)](https://instagram.com/lucasdaherdev) 
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Daher-303030?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasdaherdev/)](https://www.linkedin.com/in/lucasdaherdev/) 
+[![Email Badge](https://img.shields.io/badge/-contato@lucasdaher.com-303030?style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:contato@lucasdaher.com)](mailto:contato@lucasdaher.com)
 
-#### Studying
-[![Studying](https://skillicons.dev/icons?i=ts,nextjs)](https://skillicons.dev)
+"The best way to predict the future is to invent it."
 
-#### Pending Study
-[![Studying](https://skillicons.dev/icons?i=svelte,vuejs,mysql,angular)](https://skillicons.dev)
-
-#### Tools
-[![Tools](https://skillicons.dev/icons?i=ps,figma,vscode)](https://skillicons.dev)
-
-#### DevOps
-[![DevOps](https://skillicons.dev/icons?i=github,git)](https://skillicons.dev)
-
-### Contact
-- <a href="https://www.linkedin.com/in/lucas-daher-b797b02a7">Linkedin</a>
-- <a href="https://www.instagram.com/lucasdaher.dev">Instagram</a>
-- <a href="mailto:contato@lucasdaher.com">E-mail</a>
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,tailwind,react,ts,next,github,git,ps,figma,vscode)](https://skillicons.dev)
