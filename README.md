@@ -3,7 +3,7 @@
 Hello, my name is Lucas, I'm 21 years old and I live in Brasilia, Brazil. I'm studying to become a front-end developer.
 
 #### Skills
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,tailwind,bootstrap,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,tailwind,bootstrap,react,sass)](https://skillicons.dev)
 
 #### Studying
 [![Studying](https://skillicons.dev/icons?i=ts,nextjs)](https://skillicons.dev)
