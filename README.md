@@ -9,4 +9,4 @@ Hello! I'm **Lucas Daher**, a 21 years old based in **Brasília, Brazil**, and I
 *"The best way to predict the future is to invent it."*
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,markdown,css,sass,tailwind,react,next,github,git,ps,illustrator,figma,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind,react,next,github,git,markdown,ps,illustrator,figma,vscode)](https://skillicons.dev)
