@@ -10,6 +10,3 @@ Olá, meu nome é **Lucas Daher**! Tenho **21 anos** e atualmente estou cursando
 
 ## Habilidades
 [![My Skills](https://skillicons.dev/icons?i=java,spring,js,ts,html,css,sass,tailwind,react,nodejs,c,cpp,git,figma,vscode)](https://skillicons.dev)
-
-> [!NOTE]
-> Estou aberto a novas propostas e oportunidades para desenvolvimento web **(focado em front-end/ui/ux)**.
