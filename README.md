@@ -9,4 +9,4 @@ Olá, meu nome é **Lucas Daher**! Tenho **21 anos** e atualmente estou cursando
 *"The best way to predict the future is to invent it."*
 
 ## Habilidades
-[![My Skills](https://skillicons.dev/icons?i=java,spring,js,ts,html,css,sass,tailwind,react,nodejs,c,cpp,git,figma,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind,react,nodejs,c,git,figma,vscode)](https://skillicons.dev)
