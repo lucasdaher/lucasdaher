@@ -1,6 +1,6 @@
 # Sobre mim
 
-Me chamo **Lucas Daher**, tenho 22 anos e estou mergulhando de cabeça no mundo da tecnologia, cursando **Análise e Desenvolvimento de Sistemas (presencial)** e **Ciência da Computação (EAD)** na Universidade Católica de Brasília. Minha paixão por tecnologia me impulsiona a buscar conhecimento constantemente e a explorar as infinitas possibilidades que essa área oferece.
+Me chamo **Lucas Daher**, tenho 22 anos e estou mergulhando de cabeça no mundo da tecnologia, cursando **Análise e Desenvolvimento de Sistemas** e **Ciência da Computação (EAD)** na Universidade Católica de Brasília. Minha paixão por tecnologia me impulsiona a buscar conhecimento constantemente e a explorar as infinitas possibilidades que essa área oferece.
 
 Atualmente, estou focado em aprimorar minhas habilidades em **desenvolvimento Full-Stack**, buscando integrar minhas experiências em **desenvolvimento front-end** e **UX design** para criar soluções completas e eficientes.
 
